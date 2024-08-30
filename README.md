@@ -1,4 +1,8 @@
 # GitCommands
 exercise on git commands
 
-## Staging & Commiting 
+## Staging & Commiting
+
+## Staging 
+
+## Committing
